@@ -13,8 +13,6 @@ body {
 
 img {
         float: left;
-        margin-right: 10px;
-        margin-bottom: 10px;
         width: 100px;
 }
 
@@ -43,10 +41,6 @@ h2 {
     color: #e2326f;
 }
 
-h3 {
-    color: orange;
-}
-
 span {
     color: #369dcf;
 }
@@ -56,6 +50,22 @@ span {
     width: calc( 100% / 3 );
 }
 
+img{
+    margin-right: 10px;
+}
+
 .card {
     background-color: pink;
+    height: 100px;
+}
+.nametag {
+    background-color: black;
+    height: 100%;
+    padding: 12px 20px;
+}
+.alt-percentuale {
+    height: calc(100% / 3);
+}
+.white {
+    color: white;
 }
