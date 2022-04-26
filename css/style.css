@@ -8,9 +8,7 @@
 /* COMMON */
 body {
     font-family: 'Fredoka', sans-serif;
-    background-color: lightblue;
 }
-
 img {
         float: left;
         width: 100px;
@@ -37,10 +35,6 @@ h1 {
     text-align: center;
 }
 
-h2 {
-    color: #e2326f;
-}
-
 span {
     color: #369dcf;
 }
@@ -55,8 +49,8 @@ img{
 }
 
 .card {
-    background-color: pink;
     height: 100px;
+    margin-bottom: 20px;
 }
 .nametag {
     background-color: black;
